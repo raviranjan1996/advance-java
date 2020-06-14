@@ -31,7 +31,7 @@ static void getOccurenceOfAlphabets(String str)
 
     public static void main(String[] args) {
 
-      String str = "Raviranjan patel";
+      String str = "Raviranjan patel12";
 
       getOccurenceOfAlphabets(str);
         
